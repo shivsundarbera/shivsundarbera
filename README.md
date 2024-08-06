@@ -2,10 +2,11 @@
 <h3 align="center">Hello I'm a passionate student of Computer Science with a keen interest in the dynamic world of software development. My journey in the realm of technology has been an exhilarating ride, fueled by curiosity, innovation, and an unwavering commitment to mastering the art of coding.</h3>
 
 - 👨‍💻 Project - 1 **Automated Attendance System Using Face Recognition**
+- 👨‍💻 Project - 2 **Latest News Sender (Web Scraping)**
 
 - 🌱 I’m currently learning **Spring, Spring Boot, Docker, Git**
 
-- 👨‍💻 Project - 2 **Latest News Sender (Web Scraping)**
+
 
 - 📫 How to reach me **shivsundarbera8@gmail.com**
 
